@@ -7,3 +7,6 @@ Run `npx serve` then open [http://localhost:5000](http://localhost:5000).
 
 # 1st commit
 `tsc` failed with `error TS2304: Cannot find name 'PostMe'.`.
+
+# 2nd commit
+After added `export_post-me.d.ts`, `tsc` passed.
