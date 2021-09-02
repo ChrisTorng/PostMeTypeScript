@@ -1,3 +1,4 @@
+/// <reference path='node_modules/post-me/dist/export_post-me.d.ts' />
 var childFrame = document.getElementById('child');
 var childWindow = childFrame.contentWindow;
 var messenger = new PostMe.WindowMessenger({

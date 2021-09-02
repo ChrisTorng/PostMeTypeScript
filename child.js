@@ -1,3 +1,4 @@
+/// <reference path='node_modules/post-me/dist/export_post-me.d.ts' />
 var methods = {
     sum: function (x, y) { return x + y; },
     mul: function (x, y) { return x * y; }

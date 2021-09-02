@@ -13,3 +13,6 @@ After added `export_post-me.d.ts`, `tsc` passed.
 
 # 3rd commit
 Fully strong typed with `interface.d.ts` added.
+
+$ 4th commit
+Move `export_post-me.d.ts` into `post-me/dist`, and add reference in ts.

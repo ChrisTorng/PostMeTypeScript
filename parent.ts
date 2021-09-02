@@ -1,3 +1,5 @@
+/// <reference path='node_modules/post-me/dist/export_post-me.d.ts' />
+
 const childFrame = <HTMLIFrameElement>document.getElementById('child');
 const childWindow = childFrame.contentWindow;
 

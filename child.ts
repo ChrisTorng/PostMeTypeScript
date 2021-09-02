@@ -1,3 +1,5 @@
+/// <reference path='node_modules/post-me/dist/export_post-me.d.ts' />
+
 const methods: methodsType = {
   sum: (x, y) => x + y,
   mul: (x, y) => x * y
