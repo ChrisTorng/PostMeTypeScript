@@ -1,2 +1,9 @@
 # PostMeTypeScript
-Demo "import post-me as a script" in TypeScript
+Demo "import [post-me](https://github.com/alesgenova/post-me) as a script" in TypeScript.
+
+# Build
+Run `tsc` each time after you changed `parent.ts`/`child.ts` to generate `.js`/`.js.map`.
+Run `npx serve` then open [http://localhost:5000](http://localhost:5000).
+
+# 1st commit
+`tsc` failed with `error TS2304: Cannot find name 'PostMe'.`.
