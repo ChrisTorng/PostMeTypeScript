@@ -10,3 +10,6 @@ Run `npx serve` then open [http://localhost:5000](http://localhost:5000).
 
 # 2nd commit
 After added `export_post-me.d.ts`, `tsc` passed.
+
+# 3rd commit
+Fully strong typed with `interface.d.ts` added.
